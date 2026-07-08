@@ -1,9 +1,11 @@
-## Project Tags
+<div align="center">
 
-- `Full Stack`
-- `Protocol`
+<img src="https://assets-global.website-files.com/64083b97a8837a1e7f5a3a33/64083b97a8837a05b25a3a57_logo.svg" width="328" />
+<br/><br/>
 
-zing Orderbook-based Rates, facilitating the lending and borrowing of digital assets for constructing yield curves within the DeFi ecosystem.
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Secured-Finance/secured-finance-app) ![GitHub License](https://img.shields.io/github/license/Secured-Finance/secured-finance-app)
+
+A DeFi Trading Platform utilizing Orderbook-based Rates, facilitating the lending and borrowing of digital assets for constructing yield curves within the DeFi ecosystem.
 
 ### Quick Links
 [![Static Badge](https://img.shields.io/badge/Homepage-5162FF?style=for-the-badge)](https://secured.finance)
@@ -66,3 +68,12 @@ Here's a brief high-level overview of the tech stack the Secured Finance App use
 ## 🔖️ License
 
 This project is licensed under the MIT license, Copyright (c) 2024 Secured Finance. For more information see `LICENSE.md`.
+
+## Project Metadata
+
+| Field | Details |
+| --- | --- |
+| Repository | `ENZOMOTIVE/secured-finance-app` |
+| Categories | `Full Stack`, `Protocol` |
+| Primary stack | Next.js, React, Node.js, TypeScript, JavaScript, HTML, CSS |
+
