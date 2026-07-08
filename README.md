@@ -68,12 +68,3 @@ Here's a brief high-level overview of the tech stack the Secured Finance App use
 ## 🔖️ License
 
 This project is licensed under the MIT license, Copyright (c) 2024 Secured Finance. For more information see `LICENSE.md`.
-
-## Project Metadata
-
-| Field | Details |
-| --- | --- |
-| Repository | `ENZOMOTIVE/secured-finance-app` |
-| Categories | `Full Stack`, `Protocol` |
-| Primary stack | Next.js, React, Node.js, TypeScript, JavaScript, HTML, CSS |
-
